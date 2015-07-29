@@ -108,7 +108,7 @@ img:last-of-type {
 }
 
 #slide3:before {
-  background-image: url("http://lorempixel.com/output/abstract-q-c-640-480-5.jpg");
+  background-image: url("img/1992-batmobile-the-animated-series (1).jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
